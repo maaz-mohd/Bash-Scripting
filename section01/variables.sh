@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo $BASH
+#echo $BASH
 name="Maaz_Mohd"
 echo "Hello ${name}"
