@@ -1,6 +1,6 @@
 # Bash(Bourne Again Shell) 🐧
 
-### What is Bash sripting
+### What is Bash scripting
 Bash stands for Bourne Again Shell. A Bash Shell Script is a plain text file containing a set of various commands that we usually type in the command line. It is used to automate repetitive tasks on Linux. To automate day to day automation task, system admins write bash script in Linux system.
 Bash script has .sh extension but the extension is not mandatory.
 
